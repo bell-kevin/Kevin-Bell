@@ -1,2 +1,2 @@
 # bell-kevin.github.io
-bellKevin.wordPress.com
+# bellKevin.wordPress.com

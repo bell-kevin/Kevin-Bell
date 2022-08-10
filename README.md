@@ -9,7 +9,7 @@ Professional working proficiency in Spanish
 
 [bellKevin.wordpress.com](https://bellkevin.wordpress.com)
 
-[gitHub.com/BELL-KEVIN](https://github.com/bell-kevin)
+[github.com/BELL-KEVIN](https://github.com/bell-kevin)
 
 [twitter.com/K_R_BELL](https://nitter.net/K_R_Bell)
 

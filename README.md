@@ -1,6 +1,8 @@
 # [bellKevin.wordpress.com](https://bellkevin.wordpress.com)
 
-[bellKevin.wordpress.com](https://bellkevin.wordpress.com)
+Visit my website here: [bellKevin.wordpress.com](https://bellkevin.wordpress.com)
+
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a

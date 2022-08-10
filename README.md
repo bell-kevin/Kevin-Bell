@@ -11,6 +11,6 @@ Professional working proficiency in Spanish
 
 [github.com/BELL-KEVIN](https://github.com/bell-kevin)
 
-[twitter.com/K_R_BELL](https://nitter.net/K_R_Bell)
-
 [linkedin.com/in/KEV-BELL](https://linkedin.com/in/kev-bell)
+
+[twitter.com/K_R_BELL](https://nitter.net/K_R_Bell)

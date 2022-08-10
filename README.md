@@ -11,6 +11,8 @@ Professional working proficiency in Spanish
 
 bellKevin@pm.me
 
+Clearfield, Utah, USA
+
 [bellKevin.wordpress.com](https://bellkevin.wordpress.com)
 
 [github.com/BELL-KEVIN](https://github.com/bell-kevin)

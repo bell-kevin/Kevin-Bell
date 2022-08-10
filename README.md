@@ -7,6 +7,8 @@ and Git. Software Version Control, making API calls to get data from web servers
 structures, and storing and retrieving data for business applications. Code for a mobile environment. 
 Professional working proficiency in Spanish
 
+bellKevin@pm.me
+
 [bellKevin.wordpress.com](https://bellkevin.wordpress.com)
 
 [github.com/BELL-KEVIN](https://github.com/bell-kevin)

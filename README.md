@@ -6,4 +6,4 @@
 
 [gitHub.com/BELL-KEVIN](https://github.com/bell-kevin)
 
-[Twitter.com/K_R_Bell](https://nitter.net/K_R_Bell)
+[twitter.com/K_R_Bell](https://nitter.net/K_R_Bell)

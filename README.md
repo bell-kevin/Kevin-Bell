@@ -7,7 +7,7 @@ and Git. Software Version Control, making API calls to get data from web servers
 structures, and storing and retrieving data for business applications. Code for a mobile environment. 
 Professional working proficiency in Spanish
 
-(801)948-8881
+(801) 948-8881
 
 bellKevin@pm.me
 

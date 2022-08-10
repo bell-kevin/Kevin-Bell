@@ -12,7 +12,7 @@ to develop our FOSS project.  Project contributors are actively discussing how w
 in the long term.  We urge you to read about the
 [Give up GitHub](https://GiveUpGitHub.org) campaign from
 [the Software Freedom Conservancy](https://sfconservancy.org) to understand
-some of the reasons why GitHub is not a good place to host FOSS projects.
+some of the reasons why GitHub is not a good place to host FOSS projects
 
 If you are a contributor who personally has already quit using GitHub, please
 [check this resource](https://bellkevin.wordpress.com) for how to send us contributions without

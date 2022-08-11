@@ -4,7 +4,7 @@
 Software Development student at Davis Technical College. Skills include Java, SQL, 
 and getting things done. HTML and CSS markup for web-page building. Code in Visual Basic, JavaScript, 
 and Git. Software Version Control, making API calls to get data from web servers, exploring data 
-structures, and storing and retrieving data for business applications. Code for a mobile environment. 
+structures, and storing and retrieving data for business applications. Code for a mobile environment with respsonsive websites. 
 Professional working proficiency in Spanish
 
 (801) 948-8881

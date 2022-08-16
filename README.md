@@ -13,6 +13,6 @@ Clearfield, Utah, USA
 
 [bellKevin.wordpress.com](https://bellkevin.wordpress.com)
 
-[linkedin.com/in/KEV-BELL](https://linkedin.com/in/kev-bell)
-
 [twitter.com/K_R_BELL](https://tweet.lambda.dance/K_R_Bell)
+
+[linkedin.com/in/KEV-BELL](https://linkedin.com/in/kev-bell)

@@ -9,9 +9,9 @@ bellKevin@pm.me
 
 Clearfield, Utah, USA
 
-[bellKevin.wordpress.com](https://bellkevin.wordpress.com)
-
 [github.com/BELL-KEVIN](https://github.com/bell-kevin)
+
+[bellKevin.wordpress.com](https://bellkevin.wordpress.com)
 
 [linkedin.com/in/KEV-BELL](https://linkedin.com/in/kev-bell)
 

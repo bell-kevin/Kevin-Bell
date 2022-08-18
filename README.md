@@ -9,10 +9,10 @@ bellKevin@pm.me
 
 Clearfield, Utah, USA
 
-[github.com/BELL-KEVIN](https://github.com/bell-kevin)
+![github.com/BELL-KEVIN](https://github.com/bell-kevin)
 
-[bellKevin.wordpress.com](https://bellkevin.wordpress.com)
+![bellKevin.wordpress.com](https://bellkevin.wordpress.com)
 
-[linkedin.com/in/KEV-BELL](https://linkedin.com/in/kev-bell)
+![linkedin.com/in/KEV-BELL](https://linkedin.com/in/kev-bell)
 
-[twitter.com/K_R_BELL](https://tweet.lambda.dance/K_R_Bell)
+![twitter.com/K_R_BELL](https://tweet.lambda.dance/K_R_Bell)

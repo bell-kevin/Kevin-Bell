@@ -1,5 +1,5 @@
 # Kevin Bell
-![Kevin Bell pic](https://github.com/bell-kevin/Kevin-Bell/blob/main/kevin8269880bell.png)
+![profile](https://github.com/bell-kevin/Kevin-Bell/blob/main/bellKevin.PNG)
 
 Software Development student at Davis Technical College in Kaysville, Utah. My skills include Java, SQL, and being performance-driven and results-driven to get things done. Creative thinker with great time-management who pays attention to detail. Recognized for being an innovative coder with strong communication skills and the ability to work well with others, including customers and coworkers. Dedicated to staying up to date with technology in order to provide the best service possible. I have professional working proficiency in Spanish.
 

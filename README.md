@@ -15,4 +15,4 @@ Clearfield, Utah, USA
 
 [linkedin.com/in/KEV-BELL](https://linkedin.com/in/kev-bell)
 
-[twitter.com/K_R_BELL](https://tweet.lambda.dance/K_R_Bell)
+[twitter.com/K_R_BELL](https://nitter.it/K_R_Bell)

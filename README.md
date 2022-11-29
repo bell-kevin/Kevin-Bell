@@ -24,8 +24,10 @@ Clearfield, Utah, USA
 
 [twitter.com/K_R_BELL](https://nitter.it/K_R_Bell)
 
+<!--
 <?php 
 echo 'This was generated using PHP!';
 ?>
+-->
 
 <this is a test>

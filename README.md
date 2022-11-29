@@ -19,3 +19,6 @@ Clearfield, Utah, USA
 [linkedin.com/in/KEV-BELL](https://linkedin.com/in/kev-bell)
 
 [twitter.com/K_R_BELL](https://nitter.it/K_R_Bell)
+
+<?php echo 'This was generated using PHP!';
+?>

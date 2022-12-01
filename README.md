@@ -16,23 +16,13 @@ bellKevin@pm.me
 
 Clearfield, Utah, USA
 
-[github.com/BELL-KEVIN](https://github.com/bell-kevin)
+<a href="https://github.com/BELL-KEVIN" target="_blank">github.com/BELL-KEVIN</a>
 
-<a href="https://github.com/BELL-KEVIN" target="_blank">https://github.com/BELL-KEVIN</a>
+<a href="https://bellKevin.wordpress.com" target="_blank">bellKevin.wordpress.com</a>
 
-[bellKevin.wordpress.com](https://bellkevin.wordpress.com)
+<a href="https://linkedin.com/in/kev-bell" target="_blank">linkedin.com/in/kev-bell</a>
 
-<a href="https://bellKevin.wordpress.com" target="_blank">https://bellKevin.wordpress.com</a>
-
-[linkedin.com/in/KEV-BELL](https://linkedin.com/in/kev-bell)
-
-<a href="https://linkedin.com/in/kev-bell" target="_blank">https://linkedin.com/in/kev-bell</a>
-
-[twitter.com/K_R_BELL](https://nitter.net/K_R_Bell)
-
-<a href="https://nitter.net/K_R_Bell" target="_blank">https://nitter.net/K_R_Bell</a>
-
-<a href="https://nitter.net/K_R_Bell" target="_blank">nitter.net/K_R_Bell</a>
+<a href="https://twitter.com/K_R_Bell" target="_blank">twitter.com/K_R_Bell</a>
 
 <!--
 <?php 

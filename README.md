@@ -16,13 +16,13 @@ bellKevin@pm.me
 
 Clearfield, Utah, USA
 
+<a href="https://bellKevin.wordpress.com" target="_blank">bellKevin.wordpress.com</a>
+
 <a href="https://github.com/BELL-KEVIN" target="_blank">github.com/BELL-KEVIN</a>
 
 <a href="https://linkedin.com/in/kev-bell" target="_blank">linkedin.com/in/kev-bell</a>
 
 <a href="https://twitter.com/K_R_Bell" target="_blank">twitter.com/K_R_Bell</a>
-
-<a href="https://bellKevin.wordpress.com" target="_blank">bellKevin.wordpress.com</a>
 
 <!--
 <?php 

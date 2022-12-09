@@ -22,7 +22,7 @@ Clearfield, Utah, USA
 
 <a href="https://linkedin.com/in/kev-bell" target="_blank">linkedin.com/in/kev-bell</a>
 
-<a href="https://twitter.com/K_R_Bell" target="_blank">twitter.com/K_R_Bell</a>
+<a href="https://twitter.com/kevin__bell" target="_blank">twitter.com/kevin__bell</a>
 
 <!--
 <?php 

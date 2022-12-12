@@ -14,7 +14,7 @@ to provide the best service possible. I have professional working proficiency in
 
 bellKevin@pm.me
 
-Davis County, Utah, United Stats of America
+Davis County, Utah, United States of America
 
 <a href="https://bellKevin.wordpress.com" target="_blank">bellKevin.wordpress.com</a>
 

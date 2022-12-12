@@ -14,7 +14,7 @@ to provide the best service possible. I have professional working proficiency in
 
 bellKevin@pm.me
 
-Clearfield, Utah, USA
+Davis County, Utah, United Stats of America
 
 <a href="https://bellKevin.wordpress.com" target="_blank">bellKevin.wordpress.com</a>
 

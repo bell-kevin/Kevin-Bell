@@ -16,6 +16,8 @@ bellKevin@pm.me
 
 Davis County, Utah, United States of America
 
+<a href="https://codeberg.org/kevinBell" target="_blank">codeBerg.org/kevinBell</a>
+
 <a href="https://bellKevin.wordpress.com" target="_blank">bellKevin.wordpress.com</a>
 
 <a href="https://github.com/BELL-KEVIN" target="_blank">github.com/BELL-KEVIN</a>

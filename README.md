@@ -18,15 +18,15 @@ Davis County, Utah, United States of America
 
 <a href="https://codeberg.org/kevinBell" target="_blank">codeBerg.org/kevinBell</a>
 
+<a href="https://hostux.social/@kb" target="_blank">Kevin Bell on Mastodon</a>
+
+<a href="https://nitter.net/kevin__bell" target="_blank">nitter.net/kevin__bell</a>
+
 <a href="https://bellKevin.wordpress.com" target="_blank">bellKevin.wordpress.com</a>
 
 <a href="https://github.com/BELL-KEVIN" target="_blank">github.com/BELL-KEVIN</a>
 
 <a href="https://linkedin.com/in/kev-bell" target="_blank">linkedin.com/in/kev-bell</a>
-
-<a href="https://hostux.social/@kb" target="_blank">Kevin Bell on Mastodon</a>
-
-<a href="https://nitter.net/kevin__bell" target="_blank">nitter.net/kevin__bell</a>
 
 <a href="https://parler.com/bellKev" target="_blank">parler.com/bellKev</a>
 

@@ -2,8 +2,6 @@
 # Kevin Bell
 -->
 
-Check out my website [here](https://bell-kevin.github.io/Kevin-Bell/index.html)!
-
 <img src="https://raw.githubusercontent.com/bell-kevin/Kevin-Bell/main/kevinBell.png" alt="Kevin" class="inline"/>
 
 Software Development student at Davis Technical College in Kaysville, Utah. My skills include Java, SQL, and being 

@@ -2,7 +2,7 @@
 # Kevin Bell
 -->
 
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+Check out my website [here](https://bell-kevin.github.io/Kevin-Bell/index.html)!
 
 <img src="https://raw.githubusercontent.com/bell-kevin/Kevin-Bell/main/kevinBell.png" alt="Kevin" class="inline"/>
 

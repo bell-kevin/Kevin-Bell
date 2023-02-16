@@ -2,6 +2,8 @@
 # Kevin Bell
 -->
 
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
 <img src="https://raw.githubusercontent.com/bell-kevin/Kevin-Bell/main/kevinBell.png" alt="Kevin" class="inline"/>
 
 Software Development student at Davis Technical College in Kaysville, Utah. My skills include Java, SQL, and being 

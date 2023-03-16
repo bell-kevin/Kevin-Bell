@@ -28,7 +28,7 @@ Davis County, Utah, United States of America
 
 <a href="https://linkedin.com/in/kev-bell" target="_blank">linkedin.com/in/kev-bell</a>
 
-<a href="https://parler.com/bellKev" target="_blank">parler.com/bellKev</a>
+<a href="https://parler.com/kevin.bell" target="_blank">parler.com/kevin.bell</a>
 
 <a href="https://twitter.com/kevin__bell" target="_blank">twitter.com/kevin__bell</a>
 

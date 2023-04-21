@@ -16,17 +16,17 @@ bellKevin@pm.me
 
 Davis County, Utah, United States of America
 
+<a href="https://linkedin.com/in/kev-bell" target="_blank">linkedin.com/in/kev-bell</a>
+
+<a href="https://github.com/BELL-KEVIN" target="_blank">github.com/BELL-KEVIN</a>
+
+<a href="https://bellKevin.wordpress.com" target="_blank">bellKevin.wordpress.com</a>
+
 <a href="https://codeberg.org/kevinBell" target="_blank">codeBerg.org/kevinBell</a>
 
 <a rel="me" href="https://mastodon.social/@kevinBell">mastodon.social/@kevinBell</a>
 
 <a href="https://nitter.net/kevin__bell" target="_blank">nitter.net/kevin__bell</a>
-
-<a href="https://bellKevin.wordpress.com" target="_blank">bellKevin.wordpress.com</a>
-
-<a href="https://github.com/BELL-KEVIN" target="_blank">github.com/BELL-KEVIN</a>
-
-<a href="https://linkedin.com/in/kev-bell" target="_blank">linkedin.com/in/kev-bell</a>
 
 <!-- <a href="https://parler.com/kevin.bell" target="_blank">parler.com/kevin.bell</a> -->
 

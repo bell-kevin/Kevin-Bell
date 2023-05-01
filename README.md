@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/bell-kevin/Kevin-Bell/main/kevinBell.png" alt="Kevin" class="inline"/>
 
-Computer Science student at Weber State University in Ogden, Utah. Recent graduate in Software Development from Davis Technical College in Kaysville, Utah. My skills include Java, SQL, and being 
+Computer Science student at Weber State University in Ogden, Utah, USA. Recent graduate in Software Development from Davis Technical College in Kaysville, Utah. My skills include Java, SQL, and being 
 performance-driven and results-driven to get things done. Creative thinker with great time-management who pays 
 attention to detail. Recognized for being an innovative coder with strong communication skills and the ability to 
 work well with others, including customers and coworkers. Dedicated to staying up to date with technology in order 
